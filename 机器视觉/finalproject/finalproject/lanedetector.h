@@ -1,0 +1,4 @@
+#ifndef LANEDETECTOR_H
+#define LANEDETECTOR_H
+
+#endif // LANEDETECTOR_H
